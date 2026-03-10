@@ -39,5 +39,4 @@ _No timer and no webcam are used in this version, keeping it simple and easy to 
 ├── mainwindow.cpp
 ├── mainwindow.ui
 ├── Quiz.txt          # Question bank (required at runtime)
-└── proctor_log.txt   # Generated automatically during quiz
 # SecureQuiz-Pro
