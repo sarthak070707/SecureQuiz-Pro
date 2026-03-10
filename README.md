@@ -1,1 +1,0 @@
-# SecureQuiz-Pro
